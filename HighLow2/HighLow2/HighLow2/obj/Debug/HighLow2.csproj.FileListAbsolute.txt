@@ -1,0 +1,6 @@
+P:\Digital\VS\18Joshua Russell\HighLow2\HighLow2\HighLow2\bin\Debug\HighLow2.exe.config
+P:\Digital\VS\18Joshua Russell\HighLow2\HighLow2\HighLow2\bin\Debug\HighLow2.exe
+P:\Digital\VS\18Joshua Russell\HighLow2\HighLow2\HighLow2\bin\Debug\HighLow2.pdb
+P:\Digital\VS\18Joshua Russell\HighLow2\HighLow2\HighLow2\obj\Debug\HighLow2.csproj.CoreCompileInputs.cache
+P:\Digital\VS\18Joshua Russell\HighLow2\HighLow2\HighLow2\obj\Debug\HighLow2.exe
+P:\Digital\VS\18Joshua Russell\HighLow2\HighLow2\HighLow2\obj\Debug\HighLow2.pdb
